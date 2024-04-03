@@ -10,7 +10,6 @@ jobs:
         with:
           node-version: 20
 
-
       - name: Set up Python
         uses: actions/setup-python@master
         with:
